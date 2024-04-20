@@ -1,4 +1,4 @@
-# Sightless-Savers-Insight-Mate
+# Insight-Mate
 
 This project aims to assist blind people in identifying objects around them using an ESP32_CAM device that is mounted on glasses and an ESP32 with two push buttons in hand. The ESP32 is responsible for collecting data from the push buttons and sending the signal to the server.
 
